@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">WaryFox</string>
+    <string name="not_signed_up">Not Signed Up?</string>
+    <string name="login">LogIn</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="cancel">Cancel</string>
+    <string name="sharedpreferencekey">com.developer.splash_screen</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="empty_field">Empty Field</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">SIGN-UP</string>
+    <string name="log_in">LOG-IN</string>
+    <string name="LogInSuccessfull">LogIn Successful</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wary_fox">WaryFox</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+
+    <string name="OpenDrawer">Open Drawer</string>
+    <string name="ClosedDrawer">Closed Drawer</string>
+    <string name="title_activity_main_drawer">MainActivityDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="listusers">ListUsers</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
